@@ -17,7 +17,7 @@
 # Learnings:
   1. Learnt to clean and transform data using MS Excel.
   2. Using Lookups, IF functions, Formatting, Index, Match to transform the data.
-  3. Learnt to build a new visual using a Pivot Charts and Tables, which can be utilized for different purposes of analyze. 
+  3. Learnt to build a new visual using  Pivot Charts and Tables, which can be utilized for different purposes of analyze. 
 
 # Some Important insights from the Dashboard
   * Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
