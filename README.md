@@ -1,6 +1,8 @@
 # Coffee Sales Dashboard Project
   Data Cleaning - Data Transformation - Lookups - IF Functions - Index - Match - Pivot Tables - Pivot Chart - Data Visualization 
 
+# End to End Portfolio Project Series. 😀
+
 # Tech Stacks Used: :desktop_computer:
   1. Database : MS Excel.
   2. Visualization Tool : MS Excel.
